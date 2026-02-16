@@ -1,0 +1,5 @@
+{
+  "name": "Geekvice Aimzenix AI Studio",
+  "description": "AI-powered movement macro generator for Apex Legends. Optimized for the Aimzenix Mouse & Keyboard adapter via the Geekvice app. Generate controller-emulated movement like Tap-Strafing and Superglides.",
+  "requestFramePermissions": []
+}
